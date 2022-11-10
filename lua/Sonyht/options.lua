@@ -18,3 +18,4 @@ for k, v in pairs(options) do
 end
 
 vim.g.mapleader = " "
+vim.g.netrw_bufsettings = "noma nomod nu nobl nowrap ro"
